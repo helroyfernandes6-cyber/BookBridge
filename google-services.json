@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "300908504351",
+    "project_id": "bookbridge-cef94",
+    "storage_bucket": "bookbridge-cef94.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300908504351:android:eb338c98c14ec1baf23c2a",
+        "android_client_info": {
+          "package_name": "com.bookbridge.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYhlKs7Mipo7PPHa2kEYOZSuieICE0RKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
